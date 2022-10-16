@@ -2,7 +2,7 @@
     width: 100%;
     height: 100vh;
     padding-top: 10px;
-    background-color: #1b1b32;
+    background-color: black;
     font-family: Lato, 'sans-serif';
     display: flex;
     flex-wrap: wrap;
@@ -14,9 +14,9 @@
     width: 400px;
     height: 600px;
     padding: 14px;
-    background-color: #99c9ff;
-    border-radius: 10px;
-    border: 5px solid white;
+    background-color: #1B1B32;
+    border-radius: 5px;
+    border: 1px solid white;
 }
 
 .row {
